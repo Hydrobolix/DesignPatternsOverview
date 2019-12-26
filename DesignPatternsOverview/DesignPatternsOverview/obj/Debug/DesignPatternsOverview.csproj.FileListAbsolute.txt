@@ -1,0 +1,6 @@
+C:\Users\Hydrobolix\source\repos\DesignPatternsOverview\DesignPatternsOverview\bin\Debug\DesignPatternsOverview.exe.config
+C:\Users\Hydrobolix\source\repos\DesignPatternsOverview\DesignPatternsOverview\bin\Debug\DesignPatternsOverview.exe
+C:\Users\Hydrobolix\source\repos\DesignPatternsOverview\DesignPatternsOverview\bin\Debug\DesignPatternsOverview.pdb
+C:\Users\Hydrobolix\source\repos\DesignPatternsOverview\DesignPatternsOverview\obj\Debug\DesignPatternsOverview.csprojAssemblyReference.cache
+C:\Users\Hydrobolix\source\repos\DesignPatternsOverview\DesignPatternsOverview\obj\Debug\DesignPatternsOverview.exe
+C:\Users\Hydrobolix\source\repos\DesignPatternsOverview\DesignPatternsOverview\obj\Debug\DesignPatternsOverview.pdb

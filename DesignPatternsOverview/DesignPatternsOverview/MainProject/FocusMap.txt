@@ -1,0 +1,45 @@
+﻿/**
+
+AbstractFactory
+
+Vehicle Class
+// - frame
+- wheels
+- gas
+- battery
+
+- Vehicle()
+
+
+*/
+
+/**
+
+Factory
+
+VehicleFactory class
+- Vehicle
+
++ Car(Vehicle)
++ Tank(Vehicle)
++ Plane(Vehicle)
++ Submarine(Vehicle)
+
+*/
+
+Adapter
+
+IVehicleFrame // extracted frame state
+IVehiclePaint // Additional interface
+
+IVehicleAdapter class
+- IVehiclePaint
+- IVehicleFrame
+
+
+
+/**
+
+
+
+*/
